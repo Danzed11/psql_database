@@ -1,0 +1,24 @@
+{
+  "name": "psql_database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danzed11/psql_database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danzed11/psql_database/issues"
+  },
+  "homepage": "https://github.com/Danzed11/psql_database#readme",
+  "dependencies": {
+    "knex": "^0.16.5",
+    "pg": "^7.11.0"
+  }
+}
